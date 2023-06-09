@@ -1,0 +1,24 @@
+Bonut code giới thiệu" 
+
+<h3 class="text-md mb-2 uppercase font-medium text-gray-800">______________________________
+                              <h3 class="text-md mb-2 uppercase font-medium text-gray-800">Nơi ở:
+                            <p class="text-gray-900 text font-light leading-relaxed">
+                                Biên Hòa - Đồng Nai</h3>
+
+                                <br>
+                                
+                              <h3 class="text-md mb-2 uppercase font-medium text-gray-800">Ngày sinh:
+                            <p class="text-gray-900 text font-light leading-relaxed">
+                                30-01-200*</h3>
+
+                                <br>
+                                  
+                                <h3 class="text-md mb-2 uppercase font-medium text-gray-800">Công việc:
+                            <p class="text-gray-900 text font-light leading-relaxed">
+                                Học Sinh (Đang tập tành làm coder lỏ)</h3>
+
+                                      <h3 class="text-md mb-2 uppercase font-medium text-gray-800">______________________________
+                                      
+                            </p>
+
+(DÁN Ở DÒNG THỨ 70 VÀ SỬA THÔNG TIN LẠI)
